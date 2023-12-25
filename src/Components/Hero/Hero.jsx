@@ -22,7 +22,7 @@ const Hero = () => {
           <a
             className="btn"
             target="_blank"
-            href="https://drive.google.com/file/d/1JOmg413u2QTKTzYYe1N8p_9Ew_9R5q75/view?usp=sharing"
+            href="https://drive.google.com/file/d/1ELqMv9RhyQxBMC5e1TT-WxSWuhNyFcts/view?google_abuse=GOOGLE_ABUSE_EXEMPTION%3DID%3Da723d92513a38853:TM%3D1703482474:C%3Dr:IP%3D2409:4051:4e00:b801:503d:b3c2:e508:d97b-:S%3DorMh1mqBPYtX3ARB_kv3NfA%3B+path%3D/%3B+domain%3Dgoogle.com%3B+expires%3DMon,+25-Dec-2023+08:34:34+GMT"
           >
             Check Resume
           </a>
