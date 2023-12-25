@@ -29,7 +29,7 @@ const Hero = () => {
         </div>
         <div className="hero_right">
           <div className="hero_photo">
-            <img src="https://media-del1-1.cdn.whatsapp.net/v/t61.24694-24/369620603_585695180289481_8194852975439612399_n.jpg?ccb=11-4&oh=01_AdSgOhPxq_bLHvPZukQwiqcbXdPcCFT5UQ4tX263fWbenQ&oe=6596A4F3&_nc_sid=e6ed6c&_nc_cat=106" />
+            <img src="/src/assets/mydp.jpg" />
           </div>
         </div>
       </div>
