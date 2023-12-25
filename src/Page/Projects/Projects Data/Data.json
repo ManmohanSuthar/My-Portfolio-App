@@ -1,11 +1,11 @@
 [
   {
     "id": "1",
-    "name": "VECTORA",
-    "img": "https://manmohansuthar.github.io/my-portfolio/images/other/projet2.png",
-    "skills": ["HTML", "CSS", "JAVASCRIPT", "SCROLL TRIGGER"],
-    "date": "06-02-2023",
-    "bio": "VECTORA is my best Project this I have used scroll trigger to create this website. Before this I have never developed a scroll trigger and production website which is publically available to view.",
-    "links":"https://manmohansuthar.github.io/vectra/"
+    "name": "IMDB",
+    "img": "https://lh3.googleusercontent.com/pw/ABLVV84ohPDbTrGDxqYqlPw9np_YN-AoBQvIXwLZg0-3CB9zpDyaFbM4DlqABhzw_yeIJumdvK-2oeFJRSI2-66T3emnge3Wu-Uu52vLt8KGZf1_WBwRVEUD4OxUDnhYVgR9g-YrD6U9aZHxTjw2OoCEkiWnmVB5VeKuDtMrfIlFIMVUtbflZA-AZik0ijqfRVlFSR-JbnP9Pw6cnxbzf94fSV2Qic7zaEY27FKv_nO29mmrh1UIvSNf-fwzGQ9FmTy3M6wag-Hc4X6kYah5jWulYYbKjLlWHIu07axlMoYSaBXTvyNc2cojstSMzLPM-IojBROh3o1-VVEWqjrCwx-3nJv_FDzqNKaYHKAnjglBvOct3clRjZsxZunaXYIUEmvhX-Ojsca4jX2c2UmFiCAC55r5DJqZkXQYLRh0OFe1ItTOqBhJxMoIeQ_WVzYKKMQavNwSo07y-ODNPZ3cOeJLey_2MQ6Uf5FiBTVK-qDvKmuwcwXv18UbjjpMnC8dgiElLpoKLrGCtV8d1tzhkzm8GCtVk3xIsHOMGH7qHFB6euirlfwI6ZNzjxC_eAvQWxsrxMFZ27bCe5fs40WyCfEDiLHiZi6ULx49xs5jiP2muD-EyK9RNIQzTJPPWsZH_OicxUSqKvBVA-ra6rFAPrhL1sOkRxuLqJS7ZH2bZdcMu1BU6g34LxfpixhnYtPUd31ggIv0N7C-75sMRPvV-aRMGbiVddc4v1Rfd5w6KZvTBzx6GxqnEGXvdQxK74mXyHqEC15FKFCyJONgbLQFWzKdxsl8DOAuPuV0UV1D9hu-uqXFCwa1WEBS3VePC2eye--ZNY8tx8MzOfeGpvkcb5dEKgk0krDT7YGayh2Ivnnco86CUS2Dy59b9RpQIovOyqxVJA=w1455-h880-s-no-gm?authuser=0",
+    "skills": ["HTML", "CSS", "JAVASCRIPT", "Raect js","Express Js","TMDB MOVIRS API","API"],
+    "date": "06-12-2023",
+    "bio": "Crafted with React.js and powered by TMDb's vast movie data, this IMDb-inspired clone offers an immersive movie exploration experience. From detailed movie profiles to user ratings, it's a dynamic hub for discovering, exploring, and engaging with the cinematic world.",
+    "links":"https://manmohansuthar.github.io/IMDB/"
   }
 ]
