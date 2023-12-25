@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "React Js",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/768px-React-icon.svg.png"
+  },
+  {
+    "id": 2,
+    "name": "HTML",
+    "img": "https://www.w3.org/html/logo/badge/html5-badge-h-solo.png"
+  },
+  {
+    "id": 3,
+    "name": "CSS",
+    "img": "https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_1280.png"
+  },
+  {
+    "id": 4,
+    "name": "JavaScript",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/800px-JavaScript-logo.png"
+  },
+  {
+    "id": 5,
+    "name": "Bootstrap",
+    "img": "https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png"
+  },
+  {
+    "id": 6,
+    "name": "Tailwind ",
+    "img": "https://yt3.googleusercontent.com/ikv41jMTr1uHGdILrJhvbfVJcDt4oqhwApKX37TjAleF_cRPbF2W-waj7uMnS5JySvnlvAlTCg=s900-c-k-c0x00ffffff-no-rj"
+  }
+]

@@ -1,0 +1,121 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body,
+html {
+  width: 100%;
+  height: 100%;
+}
+.main_hero {
+  width: 100%;
+  height: 100%;
+  padding: 50px 0;
+  background-color: transparent;
+  display: flex;
+}
+.hero_left {
+  width: 50%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  gap: 7px;
+}
+.hero_right {
+  width: 50%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
+}
+.hero_left h1 {
+  font-size: 50px;
+  font-weight: 800;
+  color: var(--main-white);
+}
+.hero_left h2 {
+  color: var(--main-white);
+  font-size: 25px;
+  font-weight: 500;
+}
+.hero_left span {
+  color: var(--main-color);
+  animation: glow 5s ease-in-out infinite alternate;
+}
+@-webkit-keyframes glow {
+  from {
+    text-shadow: 0px 0px 27px rgba(133, 76, 230, 0.73);
+  }
+
+  to {
+    text-shadow: 0px 0px 0px rgba(133, 76, 230, 0.73);
+  }
+}
+.hero_left h3 {
+  font-size: 15px;
+  letter-spacing: 1px;
+  font-weight: 400;
+  color: var(--main-lite-white);
+}
+.btn {
+  text-decoration: none;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  transition: all 0.4s ease-in-out;
+  min-width: 300px;
+  height: 45px;
+  border: none;
+  border-radius: 20px;
+  margin-top: 20px;
+  font-size: 15px;
+  font-weight: 600;
+  color: var(--main-white);
+  letter-spacing: 1px;
+  background: rgb(140, 0, 255);
+  background: linear-gradient(
+    264deg,
+    rgba(140, 0, 255, 1) 0%,
+    rgba(218, 0, 255, 1) 90%
+  );
+}
+.btn:hover {
+  cursor: pointer;
+  background: rgb(140, 0, 255);
+  background: linear-gradient(
+    90deg,
+    rgba(140, 0, 255, 1) 0%,
+    rgba(218, 0, 255, 1) 90%
+  );
+}
+.hero_photo img {
+  max-width: 400px;
+  border-radius: 50%;
+  border: 2px solid var(--main-color);
+}
+
+@media only screen and (max-width: 1020px) {
+  .main_hero {
+    display: flex;
+    flex-direction: column-reverse;
+  }
+  .hero_left {
+    width: 100%;
+    display: flex;
+    text-align: center;
+  }
+  .hero_right {
+    width: 100%;
+  }
+  .hero_photo img {
+    width: 250px;
+  }
+}
+@media only screen and (max-width: 1020px) {
+  .skills_projects {
+    justify-content: center;
+  }
+}

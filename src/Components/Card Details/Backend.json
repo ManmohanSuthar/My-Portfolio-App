@@ -1,0 +1,27 @@
+[
+  {
+    "id": "1",
+    "img": "https://nodejs.org/static/images/logo.svg",
+    "name": "Node Js"
+  },
+  {
+    "id": "2",
+    "img": "https://w7.pngwing.com/pngs/925/447/png-transparent-express-js-node-js-javascript-mongodb-node-js-text-trademark-logo.png",
+    "name": "Express Js"
+  },
+  {
+    "id": "3",
+    "img": "https://logowik.com/content/uploads/images/mysql8604.logowik.com.webp",
+    "name": "MySQL"
+  },
+  {
+    "id": "4",
+    "img": "https://w7.pngwing.com/pngs/956/695/png-transparent-mongodb-original-wordmark-logo-icon.png",
+    "name": "MongoDB"
+  },
+  {
+    "id": "5",
+    "img": "https://w7.pngwing.com/pngs/246/288/png-transparent-firebase-hd-logo.png",
+    "name": "firebase"
+  }
+]

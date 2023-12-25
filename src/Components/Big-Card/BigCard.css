@@ -1,0 +1,44 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body,
+html {
+  width: 100%;
+  height: 100%;
+}
+.big_coneter {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+.main_bigcard {
+  width: 50%;
+  height: 20px;
+  flex-wrap: wrap;
+  height: min-content;
+  height: max-content;
+  box-shadow: #844ce639 0px 0px 10px 1px, var(--main-color) 0px 0px 0px 1px;
+  padding: 40px 40px;
+  border-radius: 10px;
+  text-align: center;
+}
+.bigcard_heading {
+  font-size: 23px;
+  margin-bottom: 20px;
+  color: var(--main-lite-white);
+  letter-spacing: 1px;
+}
+@media only screen and (max-width: 1020px) {
+  .main_big_card {
+    display: flex;
+    flex-direction: column;
+  }
+  .main_bigcard {
+    width: 100%;
+  }
+}

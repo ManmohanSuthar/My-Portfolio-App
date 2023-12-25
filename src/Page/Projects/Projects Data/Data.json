@@ -1,0 +1,11 @@
+[
+  {
+    "id": "1",
+    "name": "VECTORA",
+    "img": "https://manmohansuthar.github.io/my-portfolio/images/other/projet2.png",
+    "skills": ["HTML", "CSS", "JAVASCRIPT", "SCROLL TRIGGER"],
+    "date": "06-02-2023",
+    "bio": "VECTORA is my best Project this I have used scroll trigger to create this website. Before this I have never developed a scroll trigger and production website which is publically available to view.",
+    "links":"https://manmohansuthar.github.io/vectra/"
+  }
+]

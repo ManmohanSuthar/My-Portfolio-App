@@ -1,0 +1,45 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body,
+html {
+  width: 100%;
+  height: 100%;
+}
+.main_big_card {
+  width: 100%;
+  height: max-content;
+  display: flex;
+  gap: 20px;
+}
+.main_smallcard {
+  flex-wrap: wrap;
+  margin-bottom: 5px;
+  align-items: center;
+  justify-content: center;
+  height: max-content;
+  gap: 20px;
+  display: flex;
+  background-color: transparent;
+}
+.main_smallcard img {
+  max-width: 30px;
+}
+.main_smallcard h1 {
+  font-size: 15px;
+  color: var(--main-lite-white);
+  font-weight: 500;
+}
+.smallcard {
+  align-items: center;
+  width: max-content;
+  min-height: 40px;
+  padding: 7px 15px;
+  gap: 10px;
+  display: flex;
+  border-radius: 10px;
+  border: 1.4px solid var(--main-lite-white);
+}

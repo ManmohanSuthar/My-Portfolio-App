@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "name": "Analytics",
+    "img": "https://logos-world.net/wp-content/uploads/2021/02/Google-Analytics-Logo.png"
+  },
+  {
+    "id": 2,
+    "name": "Excel",
+    "img": "https://www.logo.wine/a/logo/Microsoft_Excel/Microsoft_Excel-Logo.wine.svg"
+  },
+  {
+    "id": 3,
+    "name": "Android Studio",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Android_Studio_icon_%282023%29.svg"
+  }
+]
