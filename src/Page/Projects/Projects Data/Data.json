@@ -11,7 +11,7 @@
   {
     "id": "2",
     "name": "Chat App",
-    "img": "https://firebasestorage.googleapis.com/v0/b/my-data-a96c2.appspot.com/o/Chat-App.png?alt=media&token=ac5b60da-7616-4f34-b8e0-b95ca7e9e16d",
+    "img": "https://firebasestorage.googleapis.com/v0/b/my-data-a96c2.appspot.com/o/Chat_app.png?alt=media&token=97dcf0cd-a87c-4cb3-ba20-3f38db124043",
     "skills": ["HTML", "CSS", "JAVASCRIPT", "Raect js","Chakra","Firebase","Real Time Update","Authentication"],
     "date": "29-12-2023",
     "bio": "Experience a sleek chat app built on HTML, CSS, JavaScript, and React.js, styled with Chakra UI. Powered by Firebase, it offers real-time updates and secure authentication, making seamless connections a breeze.",
