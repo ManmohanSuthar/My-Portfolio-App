@@ -29,7 +29,6 @@ html {
   font-weight: 400;
 }
 .skills_projects {
-  justify-content: space-between;
   flex-wrap: wrap;
   display: flex;
   gap: 25px;
@@ -57,7 +56,7 @@ html {
 }
 .project_img img {
   object-fit: fill;
-  width: 400px;
+  width: 100%;
 }
 .project_skills_card {
   width: fit-content;
