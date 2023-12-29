@@ -29,7 +29,7 @@ const Hero = () => {
         </div>
         <div className="hero_right">
           <div className="hero_photo">
-            <img src="https://lh3.googleusercontent.com/pw/ABLVV86Z8rJd9XkzS1yecRqCg55lqO-frHmlwBE5smKfEzgTkBPoA7S67XgBExJulRYqI3VoOR6ta43TFRAcEJ_3XECUpvRGDGvTQo1S55xHRJS3ISqe-FoZ05jA3R4Bb4709_YGwuIwHHLZZPsPJIGO-GrHUWyAl2XqeCLeCHmzq586_EBc-QrDglDAvAPjw0WzTb9HG8N8o-f5NC9NW6JKeSm_odiSnT5AIkIAOaH-G9ZzP1KLZWotH3-aHC6vfuYEyXd_Lzyfnmwhf18KriSy2DbLra4t-dqqcHzDZ2FI0Rw7U2JhQu-zecMPIb58Hv4AtW6ynuOAQFYlFw85UasVwHSmN7MbqLmRX2R4BuLj_mthOaiU4hCl1qtc8L4uNyf6g3RbnKiHEs2_JnJRoTehUNm_q_Rtb_bXjB-e0Gffvo9mmniEGzPWo1lhh5H2ODLKhOug_Nlsi7LrHu7k95v__CynYfZlMsoUKMZmMeEK3Qvp6SxjFk1zSDD50DvbAqa4ZxdoOT9niOXnqxIjjDR-wa4l3Zc17M23sRxj1yt0G6HQ2VEQw-wjhwoBWh-4fkIXpJJykN76UhGfnbbWGxZeAQ3rGysXbJGZIAA4Zqii8QoAVoGCPOlzLASgo_SVpBAYpgD5KBNqLt-oAV9US9x6sbHOTKyWSwoKhynd7NY4oAKe7TkmBZA1EFJXsIie2O_OdMC6zAI0NVZxdrK31n_A4avADcClGIIYjalVuqOeeC9Ku9WPP_JTVDlBK4X9SvKaGRWtxRorxDNQpF4Y77OAXWbw8sI08sVeI8IHZkTBut0bSp0BvNaFY5ZxOn2zyig5GrYNau6mvlqTFJJFP_f2uHvVtF4KZcbAyqkzAI-u_JnCSUZY9bxW68jwv6d7ylBXHg=w487-h487-s-no-gm?authuser=0" />
+            <img src="https://firebasestorage.googleapis.com/v0/b/my-data-a96c2.appspot.com/o/My-DP.jpg?alt=media&token=f5939806-ce06-442c-9c4c-14c31dcd82a3" />
           </div>
         </div>
       </div>
